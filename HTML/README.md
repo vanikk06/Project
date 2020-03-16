@@ -5,7 +5,7 @@
 # Table
 [👉🏻CODE👈🏻](https://github.com/vanikk06/Project/blob/master/HTML/Test2.html)
 
-- \<table></table>：宣告表格
+- /<table></table>：宣告表格
 - <caption></caption>：表格標題
   > *Optional*
     - align='top/bottom'
