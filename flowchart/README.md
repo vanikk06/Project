@@ -1,4 +1,4 @@
-```mermaid
+```flow
 classDiagram
       Animal <|-- Duck
       Animal <|-- Fish
